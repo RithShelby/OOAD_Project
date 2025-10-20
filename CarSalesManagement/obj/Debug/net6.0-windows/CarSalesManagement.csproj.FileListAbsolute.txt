@@ -1,0 +1,50 @@
+C:\Users\Chheak Lyheng\Downloads\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.AssemblyReference.cache
+C:\Users\Chheak Lyheng\Downloads\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chheak Lyheng\Downloads\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfoInputs.cache
+C:\Users\Chheak Lyheng\Downloads\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfo.cs
+C:\Users\Chheak Lyheng\Downloads\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.AssemblyReference.cache
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfoInputs.cache
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfo.cs
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.exe
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.deps.json
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.runtimeconfig.json
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.pdb
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSales.169EE68D.Up2Date
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\refint\CarSalesManagement.dll
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.pdb
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.genruntimeconfig.cache
+C:\Users\Chheak Lyheng\carshopmanagement\CarSalesManagement\obj\Debug\net6.0-windows\ref\CarSalesManagement.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.exe
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.deps.json
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.runtimeconfig.json
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\CarSalesManagement.pdb
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\OOAD_car\CarSalesManagement\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.AssemblyReference.cache
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfoInputs.cache
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.AssemblyInfo.cs
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.csproj.CoreCompileInputs.cache
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.sourcelink.json
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSales.169EE68D.Up2Date
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.dll
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\refint\CarSalesManagement.dll
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.pdb
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\CarSalesManagement.genruntimeconfig.cache
+C:\OOAD_car\CarSalesManagement\obj\Debug\net6.0-windows\ref\CarSalesManagement.dll
